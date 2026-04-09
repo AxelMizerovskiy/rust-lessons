@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "hello_world",
+    "functions",
+    "program_flow_control", 
+]
+resolver = "2"
