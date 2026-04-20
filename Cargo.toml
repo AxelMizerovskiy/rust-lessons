@@ -2,6 +2,6 @@
 members = [
     "hello_world",
     "functions",
-    "program_flow_control", "ownership", 
+    "program_flow_control", "ownership", "refrences", 
 ]
 resolver = "2"
